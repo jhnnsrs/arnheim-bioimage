@@ -8,6 +8,8 @@ Detailed documentation is in the "docs" directory.
 Quick start Arnheim
 ---------------------
 
+Try it by now
+
 
 
 
