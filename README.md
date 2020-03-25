@@ -1,3 +1,5 @@
+![Publish Docker](https://github.com/jhnnsrs/arnheim-bioimage/workflows/Publish%20Docker/badge.svg)
+
 BioImage
 ==========
 
